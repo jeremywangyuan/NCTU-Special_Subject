@@ -9,7 +9,7 @@ I will show you step by step below.
 
 - [Building for Android · servo/servo Wiki](https://github.com/servo/servo/wiki/Building-for-Android)
 - [servo/README.md · The Servo Parallel Browser Engine Project](https://github.com/servo/servo/blob/master/README.md)
-- [Building servo for Android · Jasmine "lnishan" Chen](https://lnishan.github.io/2017/building-servo-for-android/)
+- [Building servo for Android · Jasmine "lnishan" Chen](https://lnishan.github.io/2017/03/07/building-servo-for-android/)
 
 ## 1. Setup Virtual Machine
 
